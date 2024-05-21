@@ -1,9 +1,9 @@
-name: "Terraform"
+name: "Terraform Apply"
 
 on:
   push: 
-    branches: ["main"]
-    paths: ["src/**"]
+    #branches: ["main"]
+    #paths: ["src/**"]
   workflow_dispatch:
 
 jobs: 
