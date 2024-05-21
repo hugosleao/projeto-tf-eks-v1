@@ -1,7 +1,7 @@
 name: "Terraform Apply"
 
 on:
-  push: 
+  #push: 
     #branches: ["main"]
     #paths: ["src/**"]
   workflow_dispatch:
